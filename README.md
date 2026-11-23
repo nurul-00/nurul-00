@@ -4,7 +4,7 @@
 <h3 align="center">CSE Student | Flutter Developer | Aspiring AI/ML Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Flutter+App+Developer;Exploring+Artificial+Intelligence;Learning+Machine+Learning;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
+  <img src=7509977c-4f5e-4f4d-a30a-5198d64ec826.png />
 </p>
 
 ---
