@@ -118,11 +118,16 @@ I'm passionate about software development, mobile applications, and Artificial I
   <a href="https://github.com/nurul-00">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/">
+  <a href="https://www.linkedin.com/in/md-nurul-islam-nof2/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="(https://www.facebook.com/muhammad.nurul.islam.167)">
+    <img src="https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="(https://discord.com/users/1389310791752351886)">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
-
 ---
 
 <h3 align="center">
